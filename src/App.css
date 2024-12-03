@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.from {
+  background: #fff;
+  max-width: 450px;
+  margin: 0 auto;
+  margin-bottom: 4rem;
+  padding: 1rem 2rem;
+  border-radius: 0.25rem;
+}
+
+.from input {
+  background-color: transparent;
+  border-radius: 0.25rem;
+  padding: 0.25rem 0.5rem;
+}
+
+.item {
+    padding: 1rem 2rem;
+}
+.item h4 {
+  margin-bottom: 0;
+}
